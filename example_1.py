@@ -1,0 +1,3 @@
+#WRITE A PYTHON PROGRAM TO PRINT THE FOLLOWING STRING IN A SPECIFIC FORMAT 
+print('''Twinkle , twinkle,little star,\n\tHow I wonder what you are!\n\t\tUp above the world so high,
+\t\tLike a diamond in the sky.\nTwinkle ,twinkle little star,\n\tHow I wonder what you are!''')
